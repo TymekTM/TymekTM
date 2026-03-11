@@ -1,6 +1,10 @@
 hi. i write small programs that usually work.
 
-🚧 Currently working on [TextBooker](https://github.com/TECH-MENTORING-EU/Textbooker) and [DBD like game](https://github.com/Marczelloo/Dbd_alike)🚧
+🚧 Currently working on [TextBooker](https://github.com/TECH-MENTORING-EU/Textbooker)🚧
+
+Honorable mention:
+
+[Probably the word shortest full TicTacToe game](https://github.com/TymekTM/TicTacToe)
 
 What i made:
 
